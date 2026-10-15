@@ -32,20 +32,20 @@ int main() {
                             brr[i] = -brr[i];
                         }
 	                    if(gcd(arr[i],brr[i]) == 1){
-	                        mp[{arr[i],-brr[i]}]++;
+	                        mp[{arr[i],brr[i]}]++;
 	                    }
 	                    else{
 	                        int x = gcd(arr[i],brr[i]);
 	                        arr[i]/=x;
 	                        brr[i]/=x;
-	                        mp[{arr[i],-brr[i]}]++;
+	                        mp[{arr[i],brr[i]}]++;
 	                    }
 	                }
 	                
 	                
 	                int mx = zero;
 	                for(int i=0;i<n;i++){
-	                    mx = max(mx,zero + mp[{arr[i],-brr[i]}]);
+	                    mx = max(mx,zero + mp[{arr[i],brr[i]}]);
 	                }
 	                
 	                cout<<mx<<endl;
