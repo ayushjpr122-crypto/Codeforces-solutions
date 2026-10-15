@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 17 | 15 |
+| 18 | 15 |
 
 ---
 
@@ -19,10 +19,10 @@
 - [data structures](#data-structures) (1)
 - [dp](#dp) (2)
 - [games](#games) (1)
-- [greedy](#greedy) (4)
+- [greedy](#greedy) (5)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (4)
-- [math](#math) (10)
+- [math](#math) (11)
 - [number theory](#number-theory) (2)
 - [sortings](#sortings) (3)
 - [strings](#strings) (3)
@@ -87,6 +87,7 @@
 |---|---------|------------|----------|
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
+| 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 
@@ -112,6 +113,7 @@
 | 4A | [Watermelon](https://codeforces.com/contest/4/problem/A) | 800 | [GNU C11](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/4/A%20-%20Watermelon/solution.c) |
 | 294A | [Shaass and Oskols](https://codeforces.com/contest/294/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/294/A%20-%20Shaass%20and%20Oskols/solution.cpp) |
 | 1133D | [Zero Quantity Maximization](https://codeforces.com/contest/1133/problem/D) | 1500 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1133/D%20-%20Zero%20Quantity%20Maximization/solution.cpp) |
+| 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
 | 1343A | [Candies](https://codeforces.com/contest/1343/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1343/A%20-%20Candies/solution.cpp) |
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
 | 1827A | [Counting Orders](https://codeforces.com/contest/1827/problem/A) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1827/A%20-%20Counting%20Orders/solution.cpp) |
