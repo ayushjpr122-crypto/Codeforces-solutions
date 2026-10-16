@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 18 | 15 |
+| 19 | 15 |
 
 ---
 
@@ -17,9 +17,9 @@
 - [combinatorics](#combinatorics) (2)
 - [constructive algorithms](#constructive-algorithms) (1)
 - [data structures](#data-structures) (1)
-- [dp](#dp) (2)
+- [dp](#dp) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (5)
+- [greedy](#greedy) (6)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (4)
 - [math](#math) (11)
@@ -72,6 +72,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
 
@@ -88,6 +89,7 @@
 | 231A | [Team](https://codeforces.com/contest/231/problem/A) | 800 | [GNU C11](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/231/A%20-%20Team/solution.c) |
 | 405A | [Gravity Flip](https://codeforces.com/contest/405/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/405/A%20-%20Gravity%20Flip/solution.cpp) |
 | 1201B | [Zero Array](https://codeforces.com/contest/1201/problem/B) | 1500 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1201/B%20-%20Zero%20Array/solution.cpp) |
+| 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 
