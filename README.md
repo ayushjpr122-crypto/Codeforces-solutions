@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 19 | 15 |
+| 20 | 16 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (2)
 - [brute force](#brute-force) (7)
 - [combinatorics](#combinatorics) (2)
@@ -29,6 +30,12 @@
 - [two pointers](#two-pointers) (2)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 2261A | [Hey, It's Me, Souvlakity](https://codeforces.com/contest/2261/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2261/A%20-%20Hey%2C%20It's%20Me%2C%20Souvlakity/solution.cpp) |
 
 ### binary search
 
