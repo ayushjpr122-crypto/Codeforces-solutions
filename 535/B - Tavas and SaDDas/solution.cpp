@@ -1,21 +1,23 @@
 #include <bits/stdc++.h>
 using namespace std;
  
+ 
+// bitmaks solution
 int main() {
-	        
-	         string s;
+	        string s;
 	        cin>>s;
-	        int count = 0;
-	        //int idx = 0;
+	        int x = s.size();
+	        int mask_value = 0;
 	        for(int i=0;i<s.size();i++){
-	            if(s[i]=='4'){
-	                count = 2*count + 1;
+	            if(s[i] == '4'){
+	                mask_value = 2*mask_value + 0;
 	            }
 	            else{
-	                count = 2*count+2;
+	                mask_value = 2*mask_value + 1;
 	            }
 	        }
 	        
-	        cout<<count<<endl;
- 
+	        int indx = (1<<x) - 1 + mask_value;
+	        
+	        cout<<indx<<endl;
 }
