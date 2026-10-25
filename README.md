@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 28 | 17 |
+| 29 | 17 |
 
 ---
 
@@ -17,11 +17,11 @@
 - [bitmasks](#bitmasks) (1)
 - [brute force](#brute-force) (8)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (3)
+- [constructive algorithms](#constructive-algorithms) (4)
 - [data structures](#data-structures) (3)
 - [dp](#dp) (3)
 - [games](#games) (1)
-- [greedy](#greedy) (9)
+- [greedy](#greedy) (10)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (5)
 - [math](#math) (13)
@@ -81,6 +81,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1761A | [Two Permutations](https://codeforces.com/contest/1761/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1761/A%20-%20Two%20Permutations/solution.cpp) |
+| 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 2261D1 | [Come Be My Friend, Don't Be So Scared (Easy Version)](https://codeforces.com/contest/2261/problem/D1) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2261/D1%20-%20Come%20Be%20My%20Friend%2C%20Don't%20Be%20So%20Scared%20(Easy%20Version)/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 
@@ -116,6 +117,7 @@
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
+| 1797B | [Li Hua and Pattern](https://codeforces.com/contest/1797/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1797/B%20-%20Li%20Hua%20and%20Pattern/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 2156B | [Strange Machine](https://codeforces.com/contest/2156/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2156/B%20-%20Strange%20Machine/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
