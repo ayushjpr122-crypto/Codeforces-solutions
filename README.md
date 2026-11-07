@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 43 | 17 |
+| 44 | 17 |
 
 ---
 
@@ -17,16 +17,16 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (12)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (6)
+- [constructive algorithms](#constructive-algorithms) (7)
 - [data structures](#data-structures) (4)
 - [dp](#dp) (6)
 - [games](#games) (1)
-- [greedy](#greedy) (14)
+- [greedy](#greedy) (15)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (6)
 - [math](#math) (16)
 - [number theory](#number-theory) (2)
-- [sortings](#sortings) (5)
+- [sortings](#sortings) (6)
 - [strings](#strings) (5)
 - [two pointers](#two-pointers) (6)
 
@@ -96,6 +96,7 @@
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 | 2278E | [Swap and Negate](https://codeforces.com/contest/2278/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2278/E%20-%20Swap%20and%20Negate/solution.cpp) |
 | 2283C | [Big XOR](https://codeforces.com/contest/2283/problem/C) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2283/C%20-%20Big%20XOR/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### data structures
 
@@ -141,6 +142,7 @@
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
 | 2277B | [Sequence Decreasing](https://codeforces.com/contest/2277/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2277/B%20-%20Sequence%20Decreasing/solution.cpp) |
 | 2278E | [Swap and Negate](https://codeforces.com/contest/2278/problem/E) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2278/E%20-%20Swap%20and%20Negate/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### hashing
 
@@ -196,6 +198,7 @@
 | 1891B | [Deja Vu](https://codeforces.com/contest/1891/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1891/B%20-%20Deja%20Vu/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 2252C | [Risky Tower](https://codeforces.com/contest/2252/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2252/C%20-%20Risky%20Tower/solution.cpp) |
+| 2284B | [Introduction to the Niche Internet](https://codeforces.com/contest/2284/problem/B) | Unrated | [C++20 (GCC 13-64)](https://github.com/ayushjpr122-crypto/Codeforces-solutions/blob/HEAD/2284/B%20-%20Introduction%20to%20the%20Niche%20Internet/solution.cpp) |
 
 ### strings
 
